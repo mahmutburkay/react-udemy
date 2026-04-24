@@ -1,6 +1,6 @@
 # ⚛️ React Geliştirme Eğitimi
 
-Bu repo, **Enes Bayram** tarafından hazırlanan [Sıfırdan İleriye Seviye React Kursu]([https://www.youtube.com/playlist?list=PLURN6mxdcwL-xIXzq92ZJN9yRW7Q0mjzw](https://www.udemy.com/course/sfrdan-ileriye-seviye-react-kursu-guncel-egitim-2024/)) eğitimini tamamladığım süreçte yazdığım ders notlarını ve proje kodlarını içermektedir.
+Bu repo, **Enes Bayram** tarafından hazırlanan [Sıfırdan İleriye Seviye React Kursu]([https://www.youtube.com/playlist?list=PLURN6mxdcwL-xIXzq92ZJN9yRW7Q0mjzw](https://www.udemy.com/course/sfrdan-ileriye-seviye-react-kursu-guncel-egitim-2024/)](https://www.udemy.com/course/sfrdan-ileriye-seviye-react-kursu-guncel-egitim-2024/)]) eğitimini tamamladığım süreçte yazdığım ders notlarını ve proje kodlarını içermektedir.
 
 ---
 
