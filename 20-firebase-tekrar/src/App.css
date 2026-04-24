@@ -1,0 +1,96 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/*-------------------------- Nav bar -------------------------------------*/
+
+.navbar {
+    width: 100%;
+    height: 70px;
+    background-color: gold;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar-left {
+    font-family: arial;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.navbar-right {
+    cursor: pointer;
+    font-family: arial;
+    font-weight: 200;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+/*-------------------------- AUTH -------------------------------------*/
+
+.auth {
+    width: 100%;
+    height: 66vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.auth-header {
+    font-family: arial;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.input-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.input {
+    border: 1px solid lightgrey;
+    padding: 8px;
+    width: 300px;
+    border-radius: 5px;
+    margin: 10px 0px;
+}
+
+
+.login-button {
+    padding: 5px 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(41, 60, 168);
+    color: #fff;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+
+.register-button {
+    padding: 5px 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: green;
+    color: #fff;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.google-button {
+    padding: 5px 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(218, 131, 18);
+    color: #fff;
+    margin-right: 5px;
+    cursor: pointer;
+}

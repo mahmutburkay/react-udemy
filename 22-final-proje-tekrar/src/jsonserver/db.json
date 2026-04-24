@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "27306",
+      "username": "m.mahmut_burkay",
+      "password": "123456",
+      "balance": 1000
+    },
+    {
+      "id": "81464",
+      "username": "deneme",
+      "password": "123123",
+      "balance": 1000
+    },
+    {
+      "id": "29656",
+      "username": "m.mahmut_burkay",
+      "password": "1",
+      "balance": 1000
+    },
+    {
+      "id": "86388",
+      "username": "m.mahmut_burkay",
+      "password": "1",
+      "balance": 1000
+    },
+    {
+      "id": "98761",
+      "username": "m.mahmut_burkay",
+      "password": "12123121313",
+      "balance": 1000
+    },
+    {
+      "id": "82277",
+      "username": "metincan47",
+      "password": "1",
+      "balance": 1000
+    }
+  ]
+}

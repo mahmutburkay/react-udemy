@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "mehmet mahmut",
+      "password": "mmb47",
+      "postId": "7"
+    },
+    {
+      "id": "2",
+      "username": "zelal",
+      "password": "zll47"
+    },
+    {
+      "id": "3",
+      "username": "metin",
+      "password": "mtn47"
+    },
+    {
+      "id": "4",
+      "username": "celal",
+      "password": "cll47"
+    }
+  ]
+}

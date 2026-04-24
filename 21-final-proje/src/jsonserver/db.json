@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "b006",
+      "username": "gizem",
+      "password": "1"
+    },
+    {
+      "id": "9bab",
+      "username": "enesbayram166@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "87088",
+      "username": "enes",
+      "password": "1",
+      "balance": 1000
+    },
+    {
+      "id": "431699",
+      "username": "m.mahmut_burkay",
+      "password": "1",
+      "balance": 1000
+    },
+    {
+      "id": "897850",
+      "username": "m.mahmut_burkay",
+      "password": "sdadsadsad",
+      "balance": 1000
+    }
+  ]
+}
